@@ -9,3 +9,4 @@ Foram realizados testes nos endpoints de POST, GET e DELETE para certificar a fu
 Foi realizada a autenticação com um usuário já cadastrado. Em seguida, foi feito o cadastro de um usuário de teste, e após isso, um teste para limpeza do banco, excluindo o usuário cadastrado.
 # java-teste
 # java-teste
+# java-teste
